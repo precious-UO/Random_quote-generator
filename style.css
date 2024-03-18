@@ -49,12 +49,13 @@ body::before {
 .btn {
   background-color: black;
   color: white;
-  font-size: 12px;
+  padding: 10px;
   border-radius: 5px;
   margin: 15px 0 0 0;
 }
 
 .btn:hover {
-  padding: 9px;
+  padding: 10px;
+  font-size: 12px;
   background-color: gray;
 }
