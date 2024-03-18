@@ -55,6 +55,5 @@ body::before {
 }
 
 .btn:hover {
-  font-size: 12px;
   background-color: gray;
 }
